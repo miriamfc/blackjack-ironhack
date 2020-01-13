@@ -1,5 +1,6 @@
 # Blackjack
 Welcome to our blackjack game!
+<b> hi
 
 ## Aim of the game
 The aim of the game is to get to or as close to 21 points as you can without going over. If you go over 21 points, you will go bust! Each card is worth the value stated on the card, with face cards being worth 10. The only exception is the ace, which can be worth either 1 or 11 depending on your preference.
